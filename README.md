@@ -1,1 +1,2 @@
 # TeachingIntroCS-Fall17
+This repository includes homework, quizzes, the final exam, and the syllabus that I created for an Intro to CS class I taught informally during the Fall 2017 semester. The class met for a total of fifteen hours during the semester (the equivalent of a one-credit course), where students were introduced to programming fundamentals and introductory computer science concepts such as computer architecture, parameter passing, software development, computer security, and algorithms.
