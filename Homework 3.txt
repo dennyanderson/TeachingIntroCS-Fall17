@@ -1,0 +1,26 @@
+Created by	Denny Anderson
+Date created	Jul 28, 2017 10:35 pm
+Open	Sep 6, 2017 6:15 pm
+Due	Sep 13, 2017 5:00 pm
+Accept Until	Sep 20, 2017 5:00 pm
+Modified by instructor	Oct 14, 2017 5:00 pm
+Group Submission	No
+For	Entire Site
+Student Submissions	Inline and Attachments
+Grade	Points (max 100.00)
+Alert:	No
+Honor pledge:	Yes
+Assignment Instructions
+(1) Describe the following terms. [50pts]
+
+          [ ] Function
+
+          [ ] Input
+
+          [ ] Output
+
+          [ ] Parameter
+
+          [ ] Return Type
+
+(2) Submit a .cpp file named "hw3.cpp" that prints the square of a given number. Verify that your function works by testing a few numbers in the main function. It is acceptable to use any appropriate parameter and return types. [50pts]

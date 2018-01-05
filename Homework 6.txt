@@ -1,0 +1,20 @@
+Created by	Denny Anderson
+Date created	Jul 28, 2017 10:54 pm
+Open	Nov 1, 2017 6:15 pm
+Due	Nov 8, 2017 5:00 pm
+Accept Until	Nov 15, 2017 5:00 pm
+Modified by instructor	Oct 25, 2017 4:15 pm
+Group Submission	No
+For	Entire Site
+Student Submissions	Inline only
+Grade	Points (max 100.00)
+Alert:	No
+Honor pledge:	Yes
+Assignment Instructions
+(1) What is the difference between passing by value and passing by reference? Give similarities and differences as well as advantages and disadvantages of each. [40pts]
+
+(2) What is a pointer? [20pts]
+
+(3) What happens when we try to dereference a null pointer? [20pts]
+
+(4) What is a segmentation fault? [20pts]

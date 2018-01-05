@@ -1,0 +1,22 @@
+Created by	Denny Anderson
+Date created	Jul 28, 2017 10:57 pm
+Open	Oct 18, 2017 5:15 pm
+Due	Nov 15, 2017 5:00 pm
+Accept Until	Nov 15, 2017 6:15 pm
+Modified by instructor	Oct 25, 2017 4:14 pm
+Group Submission	No
+For	Entire Site
+Student Submissions	Inline only
+Grade	Points (max 100.00)
+Alert:	No
+Honor pledge:	Yes
+Assignment Instructions
+(1) What are the six stages of the software lifecycle? [12pts]
+
+(2) Find a website or application that has a terrible user interface. Explain how you would improve the design of this website. [28pts]
+
+Use the scenario below to answer the following questions. You are in charge of developing a new application for finding restaurants.
+
+(3) List at least one usability goal for this application. [30pts]
+
+(4) Transform usability goal above into a usability requirement. [30pts]

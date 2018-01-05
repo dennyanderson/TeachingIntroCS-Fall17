@@ -1,0 +1,18 @@
+Created by	Denny Anderson
+Date created	Jul 28, 2017 10:51 pm
+Open	Oct 4, 2017 6:15 pm
+Due	Oct 11, 2017 5:00 pm
+Accept Until	Oct 18, 2017 5:00 pm
+Modified by instructor	Oct 14, 2017 5:00 pm
+Group Submission	No
+For	Entire Site
+Student Submissions	Inline only
+Grade	Points (max 100.00)
+Alert:	No
+Honor pledge:	Yes
+Assignment Instructions
+(1) What is the difference between the heap and the stack? [20pts]
+
+(2) What is gcc? (You can Google this question to find the answer. Possible answers are: compiler, assembler, linker. Hint: What does gcc stand for?) [10pts]
+
+(3) Describe what happens when we click "Run." (Discuss all the steps and what happens during each step.) [70pts]

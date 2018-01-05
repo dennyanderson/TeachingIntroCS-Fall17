@@ -1,0 +1,24 @@
+Created by	Denny Anderson
+Date created	Jul 28, 2017 10:39 pm
+Open	Sep 13, 2017 6:15 pm
+Due	Oct 4, 2017 5:00 pm
+Accept Until	Oct 11, 2017 5:00 pm
+Modified by instructor	Oct 14, 2017 5:00 pm
+Group Submission	No
+For	Entire Site
+Student Submissions	Inline and Attachments
+Grade	Points (max 100.00)
+Alert:	No
+Honor pledge:	Yes
+Assignment Instructions
+(1) Submit a .cpp file named "hw4.cpp" that contains the following.
+
+          (a) Create a vector with the following ints. [10pts]
+
+                    25, 97, 14, 3, 39, 100, 7, 8, 12, 99
+
+          (b) Create a function that returns true if a given input is even and false otherwise. [30pts]
+
+          (c) Inside the main function, iterate over the elements in the vector and print the element to the console if it is even. If it is odd, do not print it to the console. [50pts]
+
+          (d) What numbers get printed when the program is run? [10pts]

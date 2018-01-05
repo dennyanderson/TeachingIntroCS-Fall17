@@ -1,0 +1,16 @@
+Created by	Denny Anderson
+Date created	Jul 28, 2017 11:02 pm
+Open	Nov 1, 2017 6:15 pm
+Due	Nov 8, 2017 5:00 pm
+Accept Until	Nov 15, 2017 5:00 pm
+Modified by instructor	Nov 1, 2017 6:16 pm
+Group Submission	No
+For	Entire Site
+Student Submissions	Inline only
+Grade	Points (max 100.00)
+Alert:	No
+Honor pledge:	Yes
+Assignment Instructions
+(1) Explain how a buffer overflow attack works. [50pts]
+
+(2) Name two mitigations to buffer overflow attacks and explain how both of them work. [50pts]

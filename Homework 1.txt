@@ -1,0 +1,22 @@
+Created by	Denny Anderson
+Date created	Jul 28, 2017 5:50 pm
+Open	Aug 30, 2017 6:15 pm
+Due	Sep 6, 2017 5:00 pm
+Accept Until	Sep 13, 2017 5:00 pm
+Modified by instructor	Oct 14, 2017 5:00 pm
+Group Submission	No
+For	Entire Site
+Student Submissions	Attachments only
+Grade	Points (max 100.00)
+Alert:	No
+Honor pledge:	Yes
+Assignment Instructions
+(1) Create an account on Code Chef (https://www.codechef.com).
+
+(2) At the top of the page, click Practice, and then click Code, Compile & Run.
+
+(3) Using the drop-down menu, change the language and compiler to C++14 (Gcc 6.3).
+
+(4) Click Run at the bottom right of the page.
+
+(5) Take a screenshot of the entire webpage, and submit the screenshot as a jpg or png file.
